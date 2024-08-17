@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../blog-app-backend"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange"
+	}
+}
